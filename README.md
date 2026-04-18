@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi, I'm Juliana Chahoud 👋
 
-<!--
-**jchahoud/jchahoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Director of Engineering** with deep roots in mobile development.  
+I lead engineering teams to build high-quality products — from hands-on architecture to people and strategy.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Expertise
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+
+---
+
+### 💬 About me
+
+- 📱 Mobile-first engineering background — iOS & Android native
+- 🏗️ Passionate about scalable systems, engineering culture, and team growth
+- 🚀 Building bridges between technical excellence and business impact
+
+---
+
+### 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianachahoud)
