@@ -1,6 +1,6 @@
 # Hi, I'm Juliana Chahoud 👋
 
-**Senior Director of Engineering** with deep roots in mobile development.  
+**VP of Engineering** with deep roots in mobile development.  
 I lead engineering teams to build high-quality products — from hands-on architecture to people and strategy.
 
 ---
